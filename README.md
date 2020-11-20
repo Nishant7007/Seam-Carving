@@ -1,0 +1,1 @@
+Implementation of seam carving paper by Shai Avidan and Ariel Shamir. Paper link: https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf
