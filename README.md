@@ -1,7 +1,7 @@
-Implementation of seam carving paper by Shai Avidan and Ariel Shamir. Paper link: https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf
+Implementation of seam carving paper by Shai Avidan and Ariel Shamir. 
+Paper link: https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf
 
-
-Uses content aware resizing of image by removing the low energy seams (path of pixels)
+Uses content-aware resizing of the image by removing the low energy seams (path of pixels)
 
 **Original Image-**
 
